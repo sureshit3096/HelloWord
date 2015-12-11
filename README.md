@@ -1,2 +1,2 @@
 # HelloWord
-Its a practice project
+Its a practice project yet
